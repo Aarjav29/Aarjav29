@@ -20,10 +20,7 @@
 
   <!-- Header -->
   <p style="margin: 0; font-size: 1.8em; color: #f79f1f;">
-    🍽️ <strong>Mr.Numerator_007</strong>
-  </p>
-  <p style="margin: 4px 0 16px; font-size: 1.1em; color: #8b949e;">
-    <code>numerator_007</code>
+    🍽️ <strong>Numerator_007</strong>
   </p>
 
   <!-- Stats Table -->
