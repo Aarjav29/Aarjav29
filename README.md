@@ -2,4 +2,5 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Numerator_429?theme=dark)
 
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Numerator_429?theme=dark&bgColor=282828)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Numerator_429&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
