@@ -20,50 +20,51 @@
     </td>
   </tr>
 </table>
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/numerator_007?v=1)](https://www.codechef.com/users/numerator_007)
-# 👨‍🍳 Mr.Numerator_007’s CodeChef Stats
 
-<div align="center">
+<div align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; max-width: 500px;">
 
-<table>
-  <tr>
-    <td colspan="2" align="center"><strong>CodeChef Profile</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Name</strong></td>
-    <td>Mr.Numerator_007</td>
-  </tr>
-  <tr>
-    <td><strong>Username</strong></td>
-    <td><code>numerator_007</code></td>
-  </tr>
-  <tr>
-    <td><strong>Global Rank</strong></td>
-    <td>7 631</td>
-  </tr>
-  <tr>
-    <td><strong>Country Rank</strong></td>
-    <td>6 413</td>
-  </tr>
-  <tr>
-    <td><strong>Current Rating</strong></td>
-    <td>1 755</td>
-  </tr>
-  <tr>
-    <td><strong>Division</strong></td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><strong>Highest Rating</strong></td>
-    <td>1 755</td>
-  </tr>
-  <tr>
-    <td><strong>Problems Solved</strong></td>
-    <td>86</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">⭐️⭐️⭐️</td>
-  </tr>
-</table>
+  <!-- Header -->
+  <p style="margin: 0; font-size: 1.8em; color: #58a6ff;">
+    📊 <strong>Mr.Numerator_007</strong>
+  </p>
+  <p style="margin: 4px 0 16px; font-size: 1.1em;">
+    <span style="color: #56d364;">Specialist</span>
+    <span style="color: #8b949e;">(max: Specialist)</span>
+  </p>
+
+  <!-- Stats Table -->
+  <table cellpadding="4" cellspacing="0" width="100%" style="color: #c9d1d9; font-family: sans-serif;">
+    <tr>
+      <td>🏅 <strong>Contest Rating:</strong></td>
+      <td align="right">1541</td>
+    </tr>
+    <tr>
+      <td>🎖️ <strong>Max Contest Rating:</strong></td>
+      <td align="right">1541</td>
+    </tr>
+    <tr>
+      <td>📚 <strong>Rated Contests:</strong></td>
+      <td align="right">41</td>
+    </tr>
+    <tr>
+      <td>✅ <strong>Problems Solved:</strong></td>
+      <td align="right">1002</td>
+    </tr>
+    <tr>
+      <td>📂 <strong>Submissions:</strong></td>
+      <td align="right">2057</td>
+    </tr>
+    <tr>
+      <td>👥 <strong>Friend of:</strong></td>
+      <td align="right">26</td>
+    </tr>
+    <tr>
+      <td>✍️ <strong>Contribution:</strong></td>
+      <td align="right">0</td>
+    </tr>
+  </table>
+
+  <!-- Footer Stars -->
+  <p style="margin-top: 16px; font-size: 1.2em;">⭐️⭐️⭐️</p>
 
 </div>
