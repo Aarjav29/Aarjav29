@@ -4,4 +4,5 @@
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Numerator_429&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Numerator_429)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder](https://badges.joonhyung.xyz/atcoder/Numerator_429.svg)](https://atcoder.jp/users/Numerator_429)
+
