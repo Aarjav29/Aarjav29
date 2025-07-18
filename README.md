@@ -4,11 +4,5 @@
 
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/Numerator_429.svg)](https://atcoder.jp/users/Numerator_429)
 
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/api/numerator_007?v=1)
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/numerator_007?v=1)
 
-## 📈 My CodeChef Stats
-<p align="center">
-  <a href="https://www.codechef.com/users/numerator_007">
-    <img src="https://cp-badges.deta.dev/codechef/numerator_007?logo=true" alt="CodeChef Badge">
-  </a>
-</p>
