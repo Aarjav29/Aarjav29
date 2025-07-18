@@ -19,10 +19,6 @@
   </p>
   <table cellpadding="4" cellspacing="0" width="100%" style="color: #24292e; font-size: 0.95em;">
     <tr>
-      <td><strong>Rank</strong></td>
-      <td align="right"><code>19980th</code></td>
-    </tr>
-    <tr>
       <td><strong>Rating</strong></td>
       <td align="right">⬆️ 780</td>
     </tr>
@@ -63,12 +59,12 @@
   <!-- Stats Table -->
   <table cellpadding="4" cellspacing="0" width="100%" style="color: #c9d1d9; font-family: sans-serif;">
     <tr>
-      <td>🌐 <strong>Global Rank:</strong></td>
-      <td align="right">7631</td>
+      <td>✅ <strong>Problems Solved:</strong></td>
+      <td align="right">86</td>
     </tr>
     <tr>
-      <td>🗺️ <strong>Country Rank:</strong></td>
-      <td align="right">6413</td>
+      <td>🥇 <strong>Highest Rating:</strong></td>
+      <td align="right">1755</td>
     </tr>
     <tr>
       <td>📈 <strong>Current Rating:</strong></td>
@@ -79,12 +75,12 @@
       <td align="right">2</td>
     </tr>
     <tr>
-      <td>🥇 <strong>Highest Rating:</strong></td>
-      <td align="right">1755</td>
+      <td>🗺️ <strong>Country Rank:</strong></td>
+      <td align="right">6413</td>
     </tr>
     <tr>
-      <td>✅ <strong>Problems Solved:</strong></td>
-      <td align="right">86</td>
+      <td>🌐 <strong>Global Rank:</strong></td>
+      <td align="right">7631</td>
     </tr>
   </table>
 
