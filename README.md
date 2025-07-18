@@ -30,15 +30,15 @@
   <table cellpadding="4" cellspacing="0" width="100%" style="color: #c9d1d9; font-family: sans-serif;">
     <tr>
       <td>🌐 <strong>Global Rank:</strong></td>
-      <td align="right">7 631</td>
+      <td align="right">7631</td>
     </tr>
     <tr>
-      <td>🇮🇳 <strong>Country Rank:</strong></td>
-      <td align="right">6 413</td>
+      <td>🗺️ <strong>Country Rank:</strong></td>
+      <td align="right">6413</td>
     </tr>
     <tr>
       <td>📈 <strong>Current Rating:</strong></td>
-      <td align="right">1 755</td>
+      <td align="right">1755</td>
     </tr>
     <tr>
       <td>🔢 <strong>Division:</strong></td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>🥇 <strong>Highest Rating:</strong></td>
-      <td align="right">1 755</td>
+      <td align="right">1755</td>
     </tr>
     <tr>
       <td>✅ <strong>Problems Solved:</strong></td>
