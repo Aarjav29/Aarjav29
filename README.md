@@ -6,4 +6,6 @@
 
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/Numerator_429.svg)](https://atcoder.jp/users/Numerator_429)
 
-[![AtCoder](https://badges.riever.dev/atcoder/Numerator_429.svg)](https://atcoder.jp/users/Numerator_429)
+
+
+
