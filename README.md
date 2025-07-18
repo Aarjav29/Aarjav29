@@ -20,3 +20,4 @@
     </td>
   </tr>
 </table>
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/numerator_007?v=1)](https://www.codechef.com/users/numerator_007)
