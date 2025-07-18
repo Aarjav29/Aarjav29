@@ -8,3 +8,4 @@
 
 
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/numerator_007?v=1)
+[![CodeChef Badge](https://cp-badges.deta.dev/codechef/numerator_007?logo=true)](https://www.codechef.com/users/numerator_007)
