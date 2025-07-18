@@ -56,10 +56,9 @@
 
   <!-- Footer Stars -->
   <p style="margin-top: 16px; font-size: 1.2em; color: #f79f1f;">⭐️⭐️⭐️</p>
+  </td>
 
 </div>
-
-    </td>
   </tr>
 </table>
 
