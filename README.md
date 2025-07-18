@@ -12,7 +12,50 @@
   <tr>
     <td>
       <a href="https://atcoder.jp/users/Numerator_429">
-        <img src="https://badges.joonhyung.xyz/atcoder/Numerator_429.svg" />
+        <div align="center" style="background: #ffffff; border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; max-width: 360px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;">
+
+  <!-- Header -->
+  <p style="margin: 0; font-size: 1.5em; color: #24292e;">
+    🏆 <strong>AtCoder Stats</strong>
+  </p>
+  <p style="margin: 4px 0 16px; font-size: 0.9em; color: #586069;">
+    (Updated: 2025/06/14)
+  </p>
+
+  <!-- Stats Table -->
+  <table cellpadding="4" cellspacing="0" width="100%" style="color: #24292e; font-size: 0.95em;">
+    <tr>
+      <td><strong>Rank</strong></td>
+      <td align="right"><code>19980th</code></td>
+    </tr>
+    <tr>
+      <td><strong>Rating</strong></td>
+      <td align="right">⬆️ 780</td>
+    </tr>
+    <tr>
+      <td><strong>Highest Rating</strong></td>
+      <td align="right">⬆️ 788 — 7 Kyu <span style="color:#6a737d;">(+12 to promote)</span></td>
+    </tr>
+    <tr>
+      <td><strong>Rated Matches</strong></td>
+      <td align="right">16</td>
+    </tr>
+    <tr>
+      <td><strong>Last Competed</strong></td>
+      <td align="right">2025‑06‑14</td>
+    </tr>
+    <tr>
+      <td><strong>Problems Solved</strong></td>
+      <td align="right">99</td>
+    </tr>
+    <tr>
+      <td><strong>Longest Streak</strong></td>
+      <td align="right">2</td>
+    </tr>
+  </table>
+
+</div>
+
       </a>
     </td>
     <td>
