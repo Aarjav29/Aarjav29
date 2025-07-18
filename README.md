@@ -2,8 +2,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Numerator_429?theme=dark)
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Numerator_429&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
-
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/Numerator_429.svg)](https://atcoder.jp/users/Numerator_429)
 
 
