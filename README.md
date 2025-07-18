@@ -9,18 +9,55 @@
       <img src="https://leetcard.jacoblin.cool/Numerator_429?theme=dark" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://atcoder.jp/users/Numerator_429">
-        <img src="https://badges.joonhyung.xyz/atcoder/Numerator_429.svg" />
-      </a>
-    </td>
-    <td>
+
+<tr>
+<td>
+<!-- AtCoder Stats -->
+<div style="margin-top: 20px;">
+  <p style="margin: 0; font-size: 1.5em; color: #24292e;">
+    🏆 <strong>AtCoder Stats</strong>
+  </p>
+  <table cellpadding="4" cellspacing="0" width="100%" style="color: #24292e; font-size: 0.95em;">
+    <tr>
+      <td><strong>Rank</strong></td>
+      <td align="right"><code>19980th</code></td>
+    </tr>
+    <tr>
+      <td><strong>Rating</strong></td>
+      <td align="right">⬆️ 780</td>
+    </tr>
+    <tr>
+      <td><strong>Highest Rating</strong></td>
+      <td align="right">⬆️ 788 — 7 Kyu</td>
+    </tr>
+    <tr>
+      <td><strong>Rated Matches</strong></td>
+      <td align="right">16</td>
+    </tr>
+    <tr>
+      <td><strong>Last Competed</strong></td>
+      <td align="right">2025‑06‑14</td>
+    </tr>
+    <tr>
+      <td><strong>Problems Solved</strong></td>
+      <td align="right">99</td>
+    </tr>
+    <tr>
+      <td><strong>Longest Streak</strong></td>
+      <td align="right">2</td>
+    </tr>
+  </table>
+</div>
+</td>
+
+
+
+<td>
       <div align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; max-width: 420px;">
 
   <!-- Header -->
   <p style="margin: 0; font-size: 1.8em; color: #f79f1f;">
-    🍽️ <strong>Numerator_007</strong>
+    🍽️ <strong>Codechef Stats</strong>
   </p>
 
   <!-- Stats Table -->
@@ -55,8 +92,8 @@
   <p style="margin-top: 16px; font-size: 1.2em; color: #f79f1f;">⭐️⭐️⭐️</p>
   </td>
 
-</div>
-  </tr>
-</table>
 
-<div align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; max-width: 500px;">
+
+</div>
+</tr>
+</table>
