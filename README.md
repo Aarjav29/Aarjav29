@@ -20,23 +20,23 @@
   <table cellpadding="4" cellspacing="0" width="100%" style="color: #24292e; font-size: 0.95em;">
     <tr>
       <td><strong>Rating</strong></td>
-      <td align="right">⬆️ 780</td>
+      <td align="right">⬆️ 833</td>
     </tr>
     <tr>
       <td><strong>Highest Rating</strong></td>
-      <td align="right">⬆️ 788 — 7 Kyu</td>
+      <td align="right">⬆️ 833 — 6 Kyu</td>
     </tr>
     <tr>
       <td><strong>Rated Matches</strong></td>
-      <td align="right">16</td>
+      <td align="right">17</td>
     </tr>
     <tr>
       <td><strong>Last Competed</strong></td>
-      <td align="right">2025‑06‑14</td>
+      <td align="right">2025‑07‑19</td>
     </tr>
     <tr>
       <td><strong>Problems Solved</strong></td>
-      <td align="right">99</td>
+      <td align="right">103</td>
     </tr>
     <tr>
       <td><strong>Longest Streak</strong></td>
